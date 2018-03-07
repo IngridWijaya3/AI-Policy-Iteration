@@ -113,7 +113,7 @@ if __name__ == '__main__':
 
     OptimalUtiltyAndAction()
     print(
-        "New machines are expensive. Suppose you wanted to open a store selling used machines for less - suppose each used machine you sold had an equal chance of being in Used1 and Used2. If you gave these machines away for free, no one would buy New machines and everyone would come to you instead. If you sold them at 250, no one would buy them. What is highest price you could sell your used machines for, while ensuring that (rational) users would buy them?")
+        "Suppose you wanted to open a store selling used machines for less - suppose each used machine you sold had an equal chance of being in Used1 and Used2. If you gave these machines away for free, no one would buy New machines and everyone would come to you instead. If you sold them at 250, no one would buy them. What is highest price you could sell your used machines for, while ensuring that (rational) users would buy them?")
 
     Used1AndUsed2Price()
     print(
